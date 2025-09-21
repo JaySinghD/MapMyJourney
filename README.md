@@ -24,7 +24,7 @@ Project Duration: 01/2025 - 05/2025
 - **Ant Colony Optimization**: Simulates pheromone trails to find efficient travel routes.
 - **2-Opt Refinement**: Tweaks existing paths to improve quality-of-results (QoR).
 
-<img width="800" height="540" alt="OP2 final" src="https://github.com/user-attachments/assets/5864ddb6-f2c6-4566-a313-339ac73db8c3" />
+<img width="750" height="540" alt="OP2 final" src="https://github.com/user-attachments/assets/5864ddb6-f2c6-4566-a313-339ac73db8c3" />
 
 ---
 
@@ -48,6 +48,16 @@ Project Duration: 01/2025 - 05/2025
 ---
 
 ## Visual Highlights
+
+### Itinerary Feature Demo
+![itinerary feature demo](https://github.com/user-attachments/assets/8e9d805b-6897-4ec3-a9de-dcfdc3733f0b)
+
+### Path-Finding System Demo
+
+
+https://github.com/user-attachments/assets/468a72da-d03d-4a48-a053-c820e6ddddf3
+
+
 
 ### Popover Feature  
 <img width="700" height="540" alt="OP2 final(1)" src="https://github.com/user-attachments/assets/076494a2-4084-4a28-9fb7-06a67425a716" />
