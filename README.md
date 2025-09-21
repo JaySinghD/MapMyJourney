@@ -2,6 +2,7 @@
 
 ## Overview
 **MapMyJourney** is a high-performance, user-friendly GIS (Geographic Information System) application designed to help tourists plan trips with ease. This project was developed as part of the University of Toronto’s ECE297 course and integrates advanced algorithms, intuitive UI features, and real-time responsiveness to deliver a tailored travel planning experience. 
+
 Project Duration: 01/2025 - 05/2025
 
 > ⚠️ _Note: Source code is not publicly available due to academic integrity policies._
