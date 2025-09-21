@@ -26,22 +26,6 @@
 
 ---
 
-## Visual Highlights
-
-### Popover Feature  
-<img width="800" height="540" alt="OP2 final(1)" src="https://github.com/user-attachments/assets/076494a2-4084-4a28-9fb7-06a67425a716" />
-
-### Subway Lines Display  
-<img width="800" height="540" alt="OP2 final(2)" src="https://github.com/user-attachments/assets/8f5ab5e7-3f29-4bae-869f-3aae312f304f" />
-
-### Varrying Levels of Detail at Zoom Levels
-<img width="800" height="540" alt="OP2 final(3)" src="https://github.com/user-attachments/assets/c81222d7-d797-4202-bf60-6d6ad4b007bb" />
-
-### Visualization of A* and Dijkstra's algorithm
-<img width="800" height="540" alt="OP2 final(4)" src="https://github.com/user-attachments/assets/242f26a1-6e2d-4757-976e-a0bdf19b1a6d" />
-
----
-
 ## Performance Benchmarks
 
 | Algorithm | Test Cases | Total Time | Avg Time per Case |
@@ -58,6 +42,22 @@
 - **Libraries**: ezGL, StreetsDatabase API, OpenStreeMap (OSM) API
 - **Algorithms**: A*, Dijkstra, Ant Colony Optimization, 2-Opt
 - **GIS Concepts**: Spatial queries, zoom-level rendering, decluttered map design
+
+---
+
+## Visual Highlights
+
+### Popover Feature  
+<img width="700" height="540" alt="OP2 final(1)" src="https://github.com/user-attachments/assets/076494a2-4084-4a28-9fb7-06a67425a716" />
+
+### Subway Lines Display  
+<img width="700" height="540" alt="OP2 final(2)" src="https://github.com/user-attachments/assets/8f5ab5e7-3f29-4bae-869f-3aae312f304f" />
+
+### Varrying Levels of Detail at Zoom Levels
+<img width="700" height="540" alt="OP2 final(3)" src="https://github.com/user-attachments/assets/c81222d7-d797-4202-bf60-6d6ad4b007bb" />
+
+### Visualization of A* and Dijkstra's algorithm
+<img width="700" height="540" alt="OP2 final(4)" src="https://github.com/user-attachments/assets/242f26a1-6e2d-4757-976e-a0bdf19b1a6d" />
 
 ---
 
