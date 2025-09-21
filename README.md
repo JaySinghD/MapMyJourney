@@ -1,5 +1,6 @@
 # MapMyJourney
 Fast itinerary planner with smart map rendering and optimized routing. Minute by minute trip scheduling, subway overlays, decluttered multi zoom map, and a courier delivery algorithm that is a practical variation of the traveling salesman problem for rapid pathfinding.
+
 <img width="960" height="540" alt="OP2 final" src="https://github.com/user-attachments/assets/5864ddb6-f2c6-4566-a313-339ac73db8c3" />
 
 
