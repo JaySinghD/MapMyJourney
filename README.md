@@ -1,7 +1,7 @@
 # 🗺️ MapMyJourney: GIS-Based Trip Planner for Tourists
 
 ## Overview
-**MapMyJourney** is a high-performance, user-friendly GIS (Geographic Information System) application designed to help tourists plan trips with ease. This project was developed as part of the University of Toronto’s ECE297 course and integrates advanced algorithms, intuitive UI features, and real-time responsiveness to deliver a tailored travel planning experience. This project is built by Alex Guo, Jay Dadhiala, and Wilbert Budhy Wibowo.
+**MapMyJourney** is a high-performance, user-friendly GIS (Geographic Information System) application designed to help tourists plan trips with ease. This project was developed as part of the University of Toronto’s ECE297 course and integrates advanced algorithms, intuitive UI features, and real-time responsiveness to deliver a tailored travel planning experience. This project was built by Alex Guo, Jay Dadhiala, and Wilbert Budhy Wibowo.
 
 Project Duration: 01/2025 - 05/2025
 
