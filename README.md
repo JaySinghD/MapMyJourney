@@ -1,7 +1,7 @@
 # 🗺️ MapMyJourney: GIS-Based Trip Planner for Tourists
 
 ## Overview
-**MapMyJourney** is a high-performance, user-friendly GIS (Geographic Information System) application designed to help tourists plan trips with ease. This project was developed as part of the University of Toronto’s ECE297 course and integrates advanced algorithms, intuitive UI features, and real-time responsiveness to deliver a tailored travel planning experience. 
+**MapMyJourney** is a high-performance, user-friendly GIS (Geographic Information System) application designed to help tourists plan trips with ease. This project was developed as part of the University of Toronto’s ECE297 course and integrates advanced algorithms, intuitive UI features, and real-time responsiveness to deliver a tailored travel planning experience. This project is built by Alex Guo, Jay Dadhiala, and Wilbert Budhy Wibowo.
 
 Project Duration: 01/2025 - 05/2025
 
@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/468a72da-d03d-4a48-a053-c820e6ddddf3
 ### Subway Lines Display  
 <img width="700" height="540" alt="OP2 final(2)" src="https://github.com/user-attachments/assets/8f5ab5e7-3f29-4bae-869f-3aae312f304f" />
 
-### Varrying Levels of Detail at Zoom Levels
+### Varying Levels of Detail at Zoom Levels
 <img width="700" height="540" alt="OP2 final(3)" src="https://github.com/user-attachments/assets/c81222d7-d797-4202-bf60-6d6ad4b007bb" />
 
 ### Visualization of A* and Dijkstra's algorithm
