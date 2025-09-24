@@ -41,7 +41,7 @@ Project Duration: 01/2025 - 05/2025
 
 ## Technologies Used
 - **Languages**: C++
-- **Libraries**: ezGL, StreetsDatabase API, OpenStreeMap (OSM) API
+- **Libraries**: ezGL, StreetsDatabase API, OpenStreetMap (OSM) API
 - **Algorithms**: A*, Dijkstra, Ant Colony Optimization, 2-Opt
 - **GIS Concepts**: Spatial queries, zoom-level rendering, decluttered map design
 
